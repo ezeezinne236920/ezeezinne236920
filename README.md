@@ -1,9 +1,4 @@
-   Me, Myself and I
-I am Eze Ezinne Leticia.
-Feel free to check my page.
-I am available for internship positions as a front-end Developer.
-I write javascript and I use the ReactJS framework.
-I write good code...
-Check me out.
-Thank you!
+I am Ezinne!
+a dedicated front-end developer with a strong foundation in HTML, CSS, JavaScript, React.js, and Next.js
+With a background in food and nutrition from my academic journey, I bring a unique perspective to my work, combining my technical skills with a deep understanding of health and wellness.
 
