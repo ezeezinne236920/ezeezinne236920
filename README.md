@@ -1,5 +1,5 @@
 Hi, I'm Ezinne! 👋
-A Software Engineer
+A Software Engineer.
 I bring a solid foundation in HTML, CSS, JavaScript, React.js, and Next.js to build responsive and efficient web applications.
 🔧 Technologies & Tools
 Frontend: HTML, CSS, JavaScript, React.js, Next.js
