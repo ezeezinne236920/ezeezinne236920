@@ -1,6 +1,6 @@
 Hi, I'm Ezinne! 👋
-🌱 Dedicated Nutritionist & Software Engineer
-I have a passion for bridging the gap between technology and nutrition, creating impactful solutions that promote health and well-being. I bring a solid foundation in HTML, CSS, JavaScript, React.js, and Next.js to build responsive and efficient web applications.
+A Software Engineer
+I bring a solid foundation in HTML, CSS, JavaScript, React.js, and Next.js to build responsive and efficient web applications.
 🔧 Technologies & Tools
 Frontend: HTML, CSS, JavaScript, React.js, Next.js
 State Management: Redux
